@@ -1,2 +1,2 @@
 # Search-Engine
-Search-engine is developed by Jishal , and it's still under construction
+Search-engine developed by Jishal , and it's still under construction
